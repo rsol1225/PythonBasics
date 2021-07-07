@@ -1,0 +1,13 @@
+#Print intials
+
+intials_last_then_first = """
+SSS       RRR
+S    S     R  R
+S          R   R
+ SSS      R R
+    S     RR
+S    S     R  R
+SSS       R   R
+"""
+
+print(last_intial)
